@@ -94,3 +94,7 @@ phpinfo();
 - Save and close the file, refresh the page and view in the browser:
 
 ![php-info page](proj1/php-on-browser.png)
+
+- Remove the php page due to sensitive info available.
+
+![removed-php-info](proj1/sensitive-info-removed.png)

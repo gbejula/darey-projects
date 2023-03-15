@@ -4,7 +4,7 @@
 
 - Create AWS account and set up ubuntu server
 
-- Connected to the EC2 instance.
+- Connect to the EC2 instance.
 
 - Navigated to download to copy for the **.pem** file
 

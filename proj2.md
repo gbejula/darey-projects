@@ -158,3 +158,7 @@ CREATE DATABASE `example_database`;
 CREATE USER 'example_user'@'%' IDENTIFIED WITH mysql_native_password BY 'password';
 GRANT ALL ON example_database.* TO 'example_user'@'%';
 ```
+
+- Insert data into the created database
+
+![data-inserted](proj2/todo-list-php-shown-on-browser.png)

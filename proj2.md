@@ -50,3 +50,13 @@ curl http://127.0.0.1:80
 `sudo mysql`
 
 ![mysql-installed](proj2/mysql-installed.png)
+
+- Reset the password for mysql and set the password strenght
+
+![mysql-set-password](proj2/mysql-set-name-password.png)
+
+> ## Step 3 - Install PHP
+
+- Install PHP using the command below:
+
+`sudo apt install php-fpm php-mysql`
